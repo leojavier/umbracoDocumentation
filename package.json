@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/leojavier/umbracoDocumentation/issues"
   },
-  "homepage": "https://github.com/leojavier/umbracoDocumentation#readme"
+  "homepage": "https://github.com/leojavier/umbracoDocumentation#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.0"
+  }
 }
