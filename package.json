@@ -1,0 +1,19 @@
+{
+  "name": "umbraco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leojavier/umbracoDocumentation.git"
+  },
+  "author": "leojavier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leojavier/umbracoDocumentation/issues"
+  },
+  "homepage": "https://github.com/leojavier/umbracoDocumentation#readme"
+}
